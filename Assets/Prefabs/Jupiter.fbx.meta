@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 2e9287020123d104cb85ce0475ae6b9e
-timeCreated: 1523339996
-licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -119,6 +117,11 @@ ModelImporter:
     2300062: Deposition_Assembly2_Base_MeshPart2
     2300064: Deposition_Chamber_1_MeshPart5
     2300066: Deposition_Chamber_2_MeshPart5
+    2300068: Airlock_Chamber
+    2300070: Airlock_Cover
+    2300072: Deposition_Assembly2_Base
+    2300074: Deposition_Chamber_1
+    2300076: Deposition_Chamber_2
     3300000: Airlock_Assembly_Base
     3300002: Airlock_Chamber_MeshPart0
     3300004: Airlock_Chamber_MeshPart1
@@ -153,6 +156,11 @@ ModelImporter:
     3300062: Deposition_Assembly2_Base_MeshPart2
     3300064: Deposition_Chamber_1_MeshPart5
     3300066: Deposition_Chamber_2_MeshPart5
+    3300068: Airlock_Chamber
+    3300070: Airlock_Cover
+    3300072: Deposition_Assembly2_Base
+    3300074: Deposition_Chamber_1
+    3300076: Deposition_Chamber_2
     4300000: Sample_Glass_Carrier
     4300002: Sample_Glass_Pane
     4300004: Airlock_Assembly_Base
@@ -187,6 +195,11 @@ ModelImporter:
     4300062: Airlock_Chamber_MeshPart5
     4300064: Deposition_Chamber_1_MeshPart5
     4300066: Deposition_Chamber_2_MeshPart5
+    4300068: Deposition_Assembly2_Base
+    4300070: Airlock_Cover
+    4300072: Airlock_Chamber
+    4300074: Deposition_Chamber_1
+    4300076: Deposition_Chamber_2
     6400000: Airlock_Assembly_Base
     6400002: Airlock_Chamber_MeshPart0
     6400004: Airlock_Chamber_MeshPart1
@@ -215,6 +228,11 @@ ModelImporter:
     6400050: Donor_Material_2
     6400052: Sample_Glass_Carrier
     6400054: Sample_Glass_Pane
+    6400056: Airlock_Chamber
+    6400058: Airlock_Cover
+    6400060: Deposition_Assembly2_Base
+    6400062: Deposition_Chamber_1
+    6400064: Deposition_Chamber_2
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -595,7 +613,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Silver
-    second: {fileID: 2100000, guid: 6ce9d9423af44ac4ebcf53b9ab62586f, type: 2}
+    second: {fileID: 2100000, guid: 15a988dd105e9574d8dd70561be3e9d7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -620,12 +638,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Stainless - Brushed
-    second: {fileID: 2100000, guid: 2415fc7591193494fadc9a8e96e19ee0, type: 2}
+    second: {fileID: 2100000, guid: 7b704b79e4565d0499ae2611d383d07b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Steel
-    second: {fileID: 2100000, guid: 8a00b8b7ccb4e3f42b49ba60da033505, type: 2}
+    second: {fileID: 2100000, guid: 71a3d91101c5c60448890821bea5a57f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -640,7 +658,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Turquoise
-    second: {fileID: 2100000, guid: 960432fd35c7741439c9de4632517d26, type: 2}
+    second: {fileID: 2100000, guid: 3ce080d2a1f2c1e4295a7a2770b54561, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -650,7 +668,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Yellow
-    second: {fileID: 2100000, guid: 7d971a11a782e36419fbec0e0ba3dd43, type: 2}
+    second: {fileID: 2100000, guid: a9d8875c295e30044a577e4cb1858187, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -674,6 +692,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -698,6 +717,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
