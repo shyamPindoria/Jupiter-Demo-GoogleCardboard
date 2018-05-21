@@ -95,13 +95,6 @@ public class Demonstration : MonoBehaviour {
 	}
 
 	/// <summary>
-	/// Activates teleport mode.
-	/// </summary>
-	public void activateTeleport() {
-		AlertObserver.teleportMode = true;
-	}
-
-	/// <summary>
 	/// Toggles the cameras.
 	/// </summary>
 	public void toggleCameras() {

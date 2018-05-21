@@ -65,7 +65,7 @@ public class GVRTeleport : MonoBehaviour {
 				Debug.DrawLine(transform.position, hit.point, Color.red);	
 			}
 
-		if (Input.GetMouseButton(0)) {
+		if (AlertObserver.teleportMode) {
 			if (Physics.Raycast(ray, out hit)) {
 				//teleLoc = hit.point;
 				//Debug.Log(hit.collider +" : "+ hit.distance+" : "+ hit.point);
@@ -90,23 +90,25 @@ public class GVRTeleport : MonoBehaviour {
 				line.material.SetTextureOffset("_MainTex", new Vector2(Time.timeSinceLevelLoad * -4f, 0f));
 				line.material.SetTextureScale("_MainTex", new Vector2(hit.point.magnitude, 1f));
 			}
-		}
+		
 
-		if (Input.GetMouseButtonUp(0)) {
-			if (Physics.Raycast(ray, out hit)) {
-				if (!debugNoJump) {
-					if (useViewHeight) { //better way?
-						parent.transform.position = new Vector3(hit.point.x, hit.point.y + viewHeight, hit.point.z);
-					} else {
-						parent.transform.position = new Vector3(hit.point.x, hit.point.y, hit.point.z);
+			if (Input.GetMouseButton(0)) {
+				if (Physics.Raycast(ray, out hit)) {
+					if (!debugNoJump) {
+						if (useViewHeight) { //better way?
+							parent.transform.position = new Vector3(hit.point.x, hit.point.y + viewHeight, hit.point.z);
+						} else {
+							parent.transform.position = new Vector3(hit.point.x, hit.point.y, hit.point.z);
+						}
+						AlertObserver.teleported = true;
+					}
+					if (!debugLine) {
+						line.SetVertexCount(0);
 					}
 				}
-				if (!debugLine) {
-					line.SetVertexCount(0);
-				}
+				targetIndicator.GetComponent<Light>().intensity = 0;
 			}
-			targetIndicator.GetComponent<Light>().intensity = 0;
+			Debug.DrawRay(this.transform.position, ray.direction * 5, Color.blue);// .DrawLine(transform.position, hit.point, Color.red);
 		}
-		Debug.DrawRay(this.transform.position, ray.direction * 5, Color.blue);// .DrawLine(transform.position, hit.point, Color.red);
 	}
 }

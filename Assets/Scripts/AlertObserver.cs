@@ -52,6 +52,15 @@ public class AlertObserver : MonoBehaviour {
 		set; 
 	}
 
+	/// <summary>
+	/// Indicates whether player is done teleporting.
+	/// </summary>
+	/// <value>True if teleported.</value>
+	public static bool teleported { 
+		get; 
+		set; 
+	}
+
 	// Use this for initialization
 	void Start () {
 		// Reset all values
@@ -106,6 +115,14 @@ public class AlertObserver : MonoBehaviour {
 	/// <param name="s">String containing the color of the glass.</param>
 	void colorChanged(string s) {
 		glassColor = s;
+	}
+
+	/// <summary>
+	/// Sets the value for teleportMode.
+	/// </summary>
+	/// <param name="value">value to set.</param>
+	public void setTeleportMode(bool value) {
+		teleportMode = value;
 	}
 
 }
