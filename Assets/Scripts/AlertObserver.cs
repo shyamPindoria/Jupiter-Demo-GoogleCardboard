@@ -43,6 +43,15 @@ public class AlertObserver : MonoBehaviour {
 		set;
 	}
 
+	/// <summary>
+	/// Indicates whether teleport mode is active.
+	/// </summary>
+	/// <value>True if teleport mode is active.</value>
+	public static bool teleportMode { 
+		get; 
+		set; 
+	}
+
 	// Use this for initialization
 	void Start () {
 		// Reset all values
