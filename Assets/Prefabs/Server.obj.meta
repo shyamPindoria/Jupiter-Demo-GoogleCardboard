@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: b376dde02b8125a4daf1eaf797dd4455
+timeCreated: 1522194250
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1u_server1_Cube12_auv
+    100002: 1u_server2_Cube12_auv
+    100004: 1u_server3_Cube12_auv
+    100006: 1u_server4_Cube12_auv
+    100008: 1u_server5_Cube12_auv
+    100010: 1u_server6_Cube12_auv
+    100012: 1u_server7_Cube12_auv
+    100014: 1u_server8_Cube12_auv
+    100016: 1u_server9_Cube12_auv
+    100018: 2u_nas1_Cube12_auv
+    100020: console_base_right_Cube1_auv
+    100022: console_console_auv
+    100024: console_left_Cube1_auv
+    100026: misc1_Cube12_auv
+    100028: misc2_Cube12_auv
+    100030: rack_Cube1_auv
+    100032: //RootNode
+    100034: ups_Cube12_auv
+    400000: 1u_server1_Cube12_auv
+    400002: 1u_server2_Cube12_auv
+    400004: 1u_server3_Cube12_auv
+    400006: 1u_server4_Cube12_auv
+    400008: 1u_server5_Cube12_auv
+    400010: 1u_server6_Cube12_auv
+    400012: 1u_server7_Cube12_auv
+    400014: 1u_server8_Cube12_auv
+    400016: 1u_server9_Cube12_auv
+    400018: 2u_nas1_Cube12_auv
+    400020: console_base_right_Cube1_auv
+    400022: console_console_auv
+    400024: console_left_Cube1_auv
+    400026: misc1_Cube12_auv
+    400028: misc2_Cube12_auv
+    400030: rack_Cube1_auv
+    400032: //RootNode
+    400034: ups_Cube12_auv
+    2300000: 1u_server1_Cube12_auv
+    2300002: 1u_server2_Cube12_auv
+    2300004: 1u_server3_Cube12_auv
+    2300006: 1u_server4_Cube12_auv
+    2300008: 1u_server5_Cube12_auv
+    2300010: 1u_server6_Cube12_auv
+    2300012: 1u_server7_Cube12_auv
+    2300014: 1u_server8_Cube12_auv
+    2300016: 1u_server9_Cube12_auv
+    2300018: 2u_nas1_Cube12_auv
+    2300020: console_base_right_Cube1_auv
+    2300022: console_console_auv
+    2300024: console_left_Cube1_auv
+    2300026: misc1_Cube12_auv
+    2300028: misc2_Cube12_auv
+    2300030: rack_Cube1_auv
+    2300032: ups_Cube12_auv
+    3300000: 1u_server1_Cube12_auv
+    3300002: 1u_server2_Cube12_auv
+    3300004: 1u_server3_Cube12_auv
+    3300006: 1u_server4_Cube12_auv
+    3300008: 1u_server5_Cube12_auv
+    3300010: 1u_server6_Cube12_auv
+    3300012: 1u_server7_Cube12_auv
+    3300014: 1u_server8_Cube12_auv
+    3300016: 1u_server9_Cube12_auv
+    3300018: 2u_nas1_Cube12_auv
+    3300020: console_base_right_Cube1_auv
+    3300022: console_console_auv
+    3300024: console_left_Cube1_auv
+    3300026: misc1_Cube12_auv
+    3300028: misc2_Cube12_auv
+    3300030: rack_Cube1_auv
+    3300032: ups_Cube12_auv
+    4300000: 1u_server1_Cube12_auv
+    4300002: 1u_server2_Cube12_auv
+    4300004: 1u_server3_Cube12_auv
+    4300006: 1u_server4_Cube12_auv
+    4300008: 1u_server5_Cube12_auv
+    4300010: 1u_server6_Cube12_auv
+    4300012: 1u_server7_Cube12_auv
+    4300014: 1u_server8_Cube12_auv
+    4300016: 1u_server9_Cube12_auv
+    4300018: 2u_nas1_Cube12_auv
+    4300020: console_base_right_Cube1_auv
+    4300022: console_console_auv
+    4300024: console_left_Cube1_auv
+    4300026: misc1_Cube12_auv
+    4300028: misc2_Cube12_auv
+    4300030: rack_Cube1_auv
+    4300032: ups_Cube12_auv
+    6400000: 1u_server1_Cube12_auv
+    6400002: 1u_server2_Cube12_auv
+    6400004: 1u_server3_Cube12_auv
+    6400006: 1u_server4_Cube12_auv
+    6400008: 1u_server5_Cube12_auv
+    6400010: 1u_server6_Cube12_auv
+    6400012: 1u_server7_Cube12_auv
+    6400014: 1u_server8_Cube12_auv
+    6400016: 1u_server9_Cube12_auv
+    6400018: 2u_nas1_Cube12_auv
+    6400020: console_base_right_Cube1_auv
+    6400022: console_console_auv
+    6400024: console_left_Cube1_auv
+    6400026: misc1_Cube12_auv
+    6400028: misc2_Cube12_auv
+    6400030: rack_Cube1_auv
+    6400032: ups_Cube12_auv
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server1_Cube12_auvMat
+    second: {fileID: 2100000, guid: 1ab019d9424989047b096a03bbc99aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server2_Cube12_auvMat
+    second: {fileID: 2100000, guid: e4e5d9a3d3911134d9a67efb105c4c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server3_Cube12_auvMat
+    second: {fileID: 2100000, guid: 17f325490c56d3345883a3a35808b4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server4_Cube12_auvMat
+    second: {fileID: 2100000, guid: ad837ef51fb4a944f9c4349d1a368c1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server5_Cube12_auvMat
+    second: {fileID: 2100000, guid: 5f28b404c8a9aed49b96dacb80ca6327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server6_Cube12_auvMat
+    second: {fileID: 2100000, guid: 79de8c250f37b7849bdbd7271788224c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server7_Cube12_auvMat
+    second: {fileID: 2100000, guid: 07fbf602b1e2ad647aed0384f2ab0424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server8_Cube12_auvMat
+    second: {fileID: 2100000, guid: 1b51a7e8f6c0a314d95c7f987ff51d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1u_server9_Cube12_auvMat
+    second: {fileID: 2100000, guid: c3bad86f0ce63f141b9e27db7443ad6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2u_nas1_Cube12_auvMat
+    second: {fileID: 2100000, guid: 5a561f90d4f6e694e8189c8498a1c206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: console_base_right_Cube1_auvMat
+    second: {fileID: 2100000, guid: ce793479ec3240446a688c4caf5f8570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: console_console_auvMat
+    second: {fileID: 2100000, guid: 4aca229f945451a4e997657117c3142c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: console_left_Cube1_auvMat
+    second: {fileID: 2100000, guid: fa2a7e94a54f537499823b30105a6a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc1_Cube12_auvMat
+    second: {fileID: 2100000, guid: 6c38bac9434a2d741952079b97a14482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc2_Cube12_auvMat
+    second: {fileID: 2100000, guid: 9db775c3f51f97444b74b02ee3deec48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rack_Cube1_auvMat
+    second: {fileID: 2100000, guid: 70dc00b0a4c16da4b85f5e88928af75d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ups_Cube12_auvMat
+    second: {fileID: 2100000, guid: 65c60a9c9bde006418a5c6b84ab1926a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

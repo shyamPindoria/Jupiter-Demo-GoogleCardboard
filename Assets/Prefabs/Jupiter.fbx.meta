@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: 2e9287020123d104cb85ce0475ae6b9e
+timeCreated: 1523339996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Airlock_Assembly_Base
+    100002: Airlock_Chamber
+    100004: Airlock_Chamber_MeshPart0
+    100006: Airlock_Chamber_MeshPart1
+    100008: Airlock_Chamber_MeshPart2
+    100010: Airlock_Chamber_MeshPart3
+    100012: Airlock_Chamber_MeshPart4
+    100014: Airlock_Cover
+    100016: Airlock_Cover_MeshPart0
+    100018: Airlock_Cover_MeshPart1
+    100020: Airlock_Deposition_Connection
+    100022: Deposition1_Cover
+    100024: Deposition2_Cover
+    100026: Deposition_Assembly1_Base
+    100028: Deposition_Assembly2_Base
+    100030: Deposition_Assembly2_Base_MeshPart0
+    100032: Deposition_Assembly2_Base_MeshPart1
+    100034: Deposition_Chamber_1
+    100036: Deposition_Chamber_1_MeshPart0
+    100038: Deposition_Chamber_1_MeshPart1
+    100040: Deposition_Chamber_1_MeshPart2
+    100042: Deposition_Chamber_1_MeshPart3
+    100044: Deposition_Chamber_1_MeshPart4
+    100046: Deposition_Chamber_2
+    100048: Deposition_Chamber_2_MeshPart0
+    100050: Deposition_Chamber_2_MeshPart1
+    100052: Deposition_Chamber_2_MeshPart2
+    100054: Deposition_Chamber_2_MeshPart3
+    100056: Deposition_Chamber_2_MeshPart4
+    100058: Donor_Material_1
+    100060: Donor_Material_2
+    100062: //RootNode
+    100064: Sample_Glass_Carrier
+    100066: Sample_Glass_Pane
+    100068: Airlock_Chamber_MeshPart5
+    100070: Deposition_Assembly1_Base_MeshPart0
+    100072: Deposition_Assembly1_Base_MeshPart1
+    100074: Deposition_Assembly2_Base_MeshPart2
+    100076: Deposition_Chamber_1_MeshPart5
+    100078: Deposition_Chamber_2_MeshPart5
+    400000: Airlock_Assembly_Base
+    400002: Airlock_Chamber
+    400004: Airlock_Chamber_MeshPart0
+    400006: Airlock_Chamber_MeshPart1
+    400008: Airlock_Chamber_MeshPart2
+    400010: Airlock_Chamber_MeshPart3
+    400012: Airlock_Chamber_MeshPart4
+    400014: Airlock_Cover
+    400016: Airlock_Cover_MeshPart0
+    400018: Airlock_Cover_MeshPart1
+    400020: Airlock_Deposition_Connection
+    400022: Deposition1_Cover
+    400024: Deposition2_Cover
+    400026: Deposition_Assembly1_Base
+    400028: Deposition_Assembly2_Base
+    400030: Deposition_Assembly2_Base_MeshPart0
+    400032: Deposition_Assembly2_Base_MeshPart1
+    400034: Deposition_Chamber_1
+    400036: Deposition_Chamber_1_MeshPart0
+    400038: Deposition_Chamber_1_MeshPart1
+    400040: Deposition_Chamber_1_MeshPart2
+    400042: Deposition_Chamber_1_MeshPart3
+    400044: Deposition_Chamber_1_MeshPart4
+    400046: Deposition_Chamber_2
+    400048: Deposition_Chamber_2_MeshPart0
+    400050: Deposition_Chamber_2_MeshPart1
+    400052: Deposition_Chamber_2_MeshPart2
+    400054: Deposition_Chamber_2_MeshPart3
+    400056: Deposition_Chamber_2_MeshPart4
+    400058: Donor_Material_1
+    400060: Donor_Material_2
+    400062: //RootNode
+    400064: Sample_Glass_Carrier
+    400066: Sample_Glass_Pane
+    400068: Airlock_Chamber_MeshPart5
+    400070: Deposition_Assembly1_Base_MeshPart0
+    400072: Deposition_Assembly1_Base_MeshPart1
+    400074: Deposition_Assembly2_Base_MeshPart2
+    400076: Deposition_Chamber_1_MeshPart5
+    400078: Deposition_Chamber_2_MeshPart5
+    2300000: Airlock_Assembly_Base
+    2300002: Airlock_Chamber_MeshPart0
+    2300004: Airlock_Chamber_MeshPart1
+    2300006: Airlock_Chamber_MeshPart2
+    2300008: Airlock_Chamber_MeshPart3
+    2300010: Airlock_Chamber_MeshPart4
+    2300012: Airlock_Cover_MeshPart0
+    2300014: Airlock_Cover_MeshPart1
+    2300016: Airlock_Deposition_Connection
+    2300018: Deposition1_Cover
+    2300020: Deposition2_Cover
+    2300022: Deposition_Assembly1_Base
+    2300024: Deposition_Assembly2_Base_MeshPart0
+    2300026: Deposition_Assembly2_Base_MeshPart1
+    2300028: Deposition_Chamber_1_MeshPart0
+    2300030: Deposition_Chamber_1_MeshPart1
+    2300032: Deposition_Chamber_1_MeshPart2
+    2300034: Deposition_Chamber_1_MeshPart3
+    2300036: Deposition_Chamber_1_MeshPart4
+    2300038: Deposition_Chamber_2_MeshPart0
+    2300040: Deposition_Chamber_2_MeshPart1
+    2300042: Deposition_Chamber_2_MeshPart2
+    2300044: Deposition_Chamber_2_MeshPart3
+    2300046: Deposition_Chamber_2_MeshPart4
+    2300048: Donor_Material_1
+    2300050: Donor_Material_2
+    2300052: Sample_Glass_Carrier
+    2300054: Sample_Glass_Pane
+    2300056: Airlock_Chamber_MeshPart5
+    2300058: Deposition_Assembly1_Base_MeshPart0
+    2300060: Deposition_Assembly1_Base_MeshPart1
+    2300062: Deposition_Assembly2_Base_MeshPart2
+    2300064: Deposition_Chamber_1_MeshPart5
+    2300066: Deposition_Chamber_2_MeshPart5
+    3300000: Airlock_Assembly_Base
+    3300002: Airlock_Chamber_MeshPart0
+    3300004: Airlock_Chamber_MeshPart1
+    3300006: Airlock_Chamber_MeshPart2
+    3300008: Airlock_Chamber_MeshPart3
+    3300010: Airlock_Chamber_MeshPart4
+    3300012: Airlock_Cover_MeshPart0
+    3300014: Airlock_Cover_MeshPart1
+    3300016: Airlock_Deposition_Connection
+    3300018: Deposition1_Cover
+    3300020: Deposition2_Cover
+    3300022: Deposition_Assembly1_Base
+    3300024: Deposition_Assembly2_Base_MeshPart0
+    3300026: Deposition_Assembly2_Base_MeshPart1
+    3300028: Deposition_Chamber_1_MeshPart0
+    3300030: Deposition_Chamber_1_MeshPart1
+    3300032: Deposition_Chamber_1_MeshPart2
+    3300034: Deposition_Chamber_1_MeshPart3
+    3300036: Deposition_Chamber_1_MeshPart4
+    3300038: Deposition_Chamber_2_MeshPart0
+    3300040: Deposition_Chamber_2_MeshPart1
+    3300042: Deposition_Chamber_2_MeshPart2
+    3300044: Deposition_Chamber_2_MeshPart3
+    3300046: Deposition_Chamber_2_MeshPart4
+    3300048: Donor_Material_1
+    3300050: Donor_Material_2
+    3300052: Sample_Glass_Carrier
+    3300054: Sample_Glass_Pane
+    3300056: Airlock_Chamber_MeshPart5
+    3300058: Deposition_Assembly1_Base_MeshPart0
+    3300060: Deposition_Assembly1_Base_MeshPart1
+    3300062: Deposition_Assembly2_Base_MeshPart2
+    3300064: Deposition_Chamber_1_MeshPart5
+    3300066: Deposition_Chamber_2_MeshPart5
+    4300000: Sample_Glass_Carrier
+    4300002: Sample_Glass_Pane
+    4300004: Airlock_Assembly_Base
+    4300006: Deposition_Assembly1_Base
+    4300008: Deposition_Assembly2_Base_MeshPart0
+    4300010: Deposition_Assembly2_Base_MeshPart1
+    4300012: Airlock_Cover_MeshPart0
+    4300014: Airlock_Cover_MeshPart1
+    4300016: Airlock_Chamber_MeshPart0
+    4300018: Airlock_Chamber_MeshPart1
+    4300020: Airlock_Chamber_MeshPart2
+    4300022: Airlock_Chamber_MeshPart3
+    4300024: Airlock_Chamber_MeshPart4
+    4300026: Airlock_Deposition_Connection
+    4300028: Donor_Material_1
+    4300030: Deposition1_Cover
+    4300032: Deposition_Chamber_1_MeshPart0
+    4300034: Deposition_Chamber_1_MeshPart1
+    4300036: Deposition_Chamber_1_MeshPart2
+    4300038: Deposition_Chamber_1_MeshPart3
+    4300040: Deposition_Chamber_1_MeshPart4
+    4300042: Deposition2_Cover
+    4300044: Donor_Material_2
+    4300046: Deposition_Chamber_2_MeshPart0
+    4300048: Deposition_Chamber_2_MeshPart1
+    4300050: Deposition_Chamber_2_MeshPart2
+    4300052: Deposition_Chamber_2_MeshPart3
+    4300054: Deposition_Chamber_2_MeshPart4
+    4300056: Deposition_Assembly1_Base_MeshPart0
+    4300058: Deposition_Assembly1_Base_MeshPart1
+    4300060: Deposition_Assembly2_Base_MeshPart2
+    4300062: Airlock_Chamber_MeshPart5
+    4300064: Deposition_Chamber_1_MeshPart5
+    4300066: Deposition_Chamber_2_MeshPart5
+    6400000: Airlock_Assembly_Base
+    6400002: Airlock_Chamber_MeshPart0
+    6400004: Airlock_Chamber_MeshPart1
+    6400006: Airlock_Chamber_MeshPart2
+    6400008: Airlock_Chamber_MeshPart3
+    6400010: Airlock_Chamber_MeshPart4
+    6400012: Airlock_Cover_MeshPart0
+    6400014: Airlock_Cover_MeshPart1
+    6400016: Airlock_Deposition_Connection
+    6400018: Deposition1_Cover
+    6400020: Deposition2_Cover
+    6400022: Deposition_Assembly1_Base
+    6400024: Deposition_Assembly2_Base_MeshPart0
+    6400026: Deposition_Assembly2_Base_MeshPart1
+    6400028: Deposition_Chamber_1_MeshPart0
+    6400030: Deposition_Chamber_1_MeshPart1
+    6400032: Deposition_Chamber_1_MeshPart2
+    6400034: Deposition_Chamber_1_MeshPart3
+    6400036: Deposition_Chamber_1_MeshPart4
+    6400038: Deposition_Chamber_2_MeshPart0
+    6400040: Deposition_Chamber_2_MeshPart1
+    6400042: Deposition_Chamber_2_MeshPart2
+    6400044: Deposition_Chamber_2_MeshPart3
+    6400046: Deposition_Chamber_2_MeshPart4
+    6400048: Donor_Material_1
+    6400050: Donor_Material_2
+    6400052: Sample_Glass_Carrier
+    6400054: Sample_Glass_Pane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0,0,0
+    second: {fileID: 2100000, guid: 42aa0d9ee34ba8f43ad6b5cfd887d6ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0,0,255
+    second: {fileID: 2100000, guid: f6d862f0286c77c448311348e5379c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0,128,128
+    second: {fileID: 2100000, guid: 0aaeba77812cefe469828192b5467765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0,168,255
+    second: {fileID: 2100000, guid: 509df6c1f6d8fa34cb748e2d8cb3433b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0,255,0
+    second: {fileID: 2100000, guid: a7376b9d73147d04fbe6f843ffa66b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0,84,255
+    second: {fileID: 2100000, guid: 567808d5c67abf24599fc3aec59cf443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1,54,209
+    second: {fileID: 2100000, guid: 83381887633f700488d672cb30d772b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10,255,103
+    second: {fileID: 2100000, guid: 364e500b895f7974c9dd2828fde91be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 102,102,102
+    second: {fileID: 2100000, guid: 7de4df9c6b35c574697ddd7d0d7934cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 128,128,128
+    second: {fileID: 2100000, guid: 8ee2cad62f132784296a38c07a2a72a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 128,255,128
+    second: {fileID: 2100000, guid: 894b2e19eb1b4564eb4649fcd98f01a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 153,153,153
+    second: {fileID: 2100000, guid: 550b8d8969014f84c8cdf2d7779a2009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 163,163,175
+    second: {fileID: 2100000, guid: 861faaf789ed74a45b6d59c91dd0082c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 165,158,150
+    second: {fileID: 2100000, guid: 71d97f144d5724d4b8f54d9ec60e8c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 170,170,170
+    second: {fileID: 2100000, guid: fc137db2f0d1b3348934caee3447c155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 173,136,24
+    second: {fileID: 2100000, guid: 8d815bc4b33d1e14aa1a3dad165b9baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 176,176,176
+    second: {fileID: 2100000, guid: 7fd27c2bfd10a794693a70319de4dd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 178,178,178
+    second: {fileID: 2100000, guid: a27c430b4da9dca4dab1f93c0323afed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 187,119,102
+    second: {fileID: 2100000, guid: 77511c7cc28f86f4e85d48037d000f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 187,187,187
+    second: {fileID: 2100000, guid: 99ac4752689905042989233ac36a2d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 192,192,192
+    second: {fileID: 2100000, guid: acec6d6f7811d1d4299aef16cf45a60b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 192,192,255
+    second: {fileID: 2100000, guid: ebcf7f4edd3234b4cbe6f7f26695c2d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 192,255,192
+    second: {fileID: 2100000, guid: 3271c74af955f4a4bb675164dd234481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 204,0,0
+    second: {fileID: 2100000, guid: 19c36bffc919d1749afe7f218ccb5cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 204,204,204
+    second: {fileID: 2100000, guid: f7f5cf37d23219c43915afc5dcbd969f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 221,221,221
+    second: {fileID: 2100000, guid: d1cc5093a4ed22348acb72dc6ad71aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 224,223,219
+    second: {fileID: 2100000, guid: 2c6495c6a1e889a42881939a035691e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 224,242,255
+    second: {fileID: 2100000, guid: c90dc42c5bba9fb429c00e414832c8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 226,220,42
+    second: {fileID: 2100000, guid: 1096844b9c6dd1f49afcd39fd6818251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 232,113,8
+    second: {fileID: 2100000, guid: 65ad09493c37d36459311bcf743b7e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 252,188,132
+    second: {fileID: 2100000, guid: 57af05a206730d64087b217f3dc7847e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 255,0,0
+    second: {fileID: 2100000, guid: 403ffe79131b98f4a9ce92e2360a07ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 255,0,51
+    second: {fileID: 2100000, guid: 6b3d5f7361831994aa9d526ae9fb58cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 255,242,153
+    second: {fileID: 2100000, guid: 98c43bb8b72a0fc45b4c2b7fcac575a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 255,242,232
+    second: {fileID: 2100000, guid: 97d355f344190fc4b984a4f434522015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 255,255,0
+    second: {fileID: 2100000, guid: 0432c09dd191c7746852c26a67155fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 255,255,255
+    second: {fileID: 2100000, guid: 0566d6f03080f744e92c00c7b0261001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 36,145,64
+    second: {fileID: 2100000, guid: 4ba39fcd848914140abf8b3b4ed23fb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 38,46,56
+    second: {fileID: 2100000, guid: b220511721966b2499cb1dbe552ecfe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 64,64,64
+    second: {fileID: 2100000, guid: 8559ea88eb5803f43a0e8f14605121ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 80,19,0
+    second: {fileID: 2100000, guid: 6075ed8c32808f242a15c1b0e142d22e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 82,82,82
+    second: {fileID: 2100000, guid: 8597d6e0bf026894a8221481a737e04a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum - Flat
+    second: {fileID: 2100000, guid: 8136bc336618c2e418686bdf5e14cff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anodized - Black
+    second: {fileID: 2100000, guid: 3d0a3fc15aedf024b9ede2e0a678a2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: f5c1919b54b0f974ba894450ecca00dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue - Wall Paint - Glossy
+    second: {fileID: 2100000, guid: 0eb17f9cb9dd80f4a8c7fed25f828ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass - Polished
+    second: {fileID: 2100000, guid: 987aebe030772c04e83819f2df6ac4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cadet Blue
+    second: {fileID: 2100000, guid: a833a0c4d40ec7142b959adbee212960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome - Polished Blue
+    second: {fileID: 2100000, guid: 3ea1984915e699c46bd043a5a5d5f810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome - Satin
+    second: {fileID: 2100000, guid: 648b4c13c54d39e41811b9450944dd9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cool White
+    second: {fileID: 2100000, guid: ac055a137f7cebd4cb6e03bb5f8ecda4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper
+    second: {fileID: 2100000, guid: a8744dd2ff555fa46b9b43e48d31580a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cyan
+    second: {fileID: 2100000, guid: 307f76862a6758d44ac72fd2834f7557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Green
+    second: {fileID: 2100000, guid: 2b3cbf054fbf87b4ab46b1a9050ad669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Ceramic
+    second: {fileID: 2100000, guid: 3eb0920d8eabeb54eae9e4bd00b73bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 73e6f5a259e84ae449d6d32bcee0f53f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy - Gold
+    second: {fileID: 2100000, guid: 93931af057bde2b4ab1623582439b5da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gunmetal - Antique Polished
+    second: {fileID: 2100000, guid: 620c87ded007fcc4a80d067754b1da0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Honed
+    second: {fileID: 2100000, guid: 522c5bb19eba6ad4c9886792f0c02ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Honed - Dark Gray
+    second: {fileID: 2100000, guid: ca54b7eab412c404b8ddcda6a5853802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Beige
+    second: {fileID: 2100000, guid: 59b6467d1f1194f40a280feb4fb219ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Red
+    second: {fileID: 2100000, guid: 9c172479b85589d468a8d1a95a563b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machined - Aluminum
+    second: {fileID: 2100000, guid: 6d7a9c72575c0bb409a821fa3817fbbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machined 02
+    second: {fileID: 2100000, guid: c635be8ae839daf4b8cf6f6f277b1528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Magenta
+    second: {fileID: 2100000, guid: 8506aba150ecade4cb03b11045df0060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal 1800F Hot
+    second: {fileID: 2100000, guid: cd47d81cbaa4da849a883cca57c9a6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Copper - Satin Brushed
+    second: {fileID: 2100000, guid: 5fdb2fda4f2f8914399a421e0f69ddae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miscellaneous Default
+    second: {fileID: 2100000, guid: 88a2540aeba8a1f4aa47c09d9b52307b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nylon 6
+    second: {fileID: 2100000, guid: 97df944903be8b14098d3da73b88efed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange-Red
+    second: {fileID: 2100000, guid: bd6e7052ff64d434fb2e72e4b43c0364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PTFE
+    second: {fileID: 2100000, guid: aee74164adff1094fb1bbb4f89dfc1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC - White
+    second: {fileID: 2100000, guid: 6c82891403ef93a4fb52617d9d5cfcb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ribbed - Vertical 2
+    second: {fileID: 2100000, guid: 6c0c6b6787bbc47459d4b1ab30437647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber - Blue
+    second: {fileID: 2100000, guid: b27df2e279c03874aa57b77d2b7491f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Satin - Black
+    second: {fileID: 2100000, guid: be44bb18c45d10a4d92eaef55b1503f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: 6ce9d9423af44ac4ebcf53b9ab62586f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smooth - Black
+    second: {fileID: 2100000, guid: 686f31d417fc6384bbbd552592a323e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smooth - Purple
+    second: {fileID: 2100000, guid: 9b0023c5cca8ba94294ddf0cab522a4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smooth - Red
+    second: {fileID: 2100000, guid: 755b4a3087d5b4345b42eb719f407bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smooth - Yellow
+    second: {fileID: 2100000, guid: 7746815e02de9db4991a8120a0f6ecb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless - Brushed
+    second: {fileID: 2100000, guid: 2415fc7591193494fadc9a8e96e19ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 8a00b8b7ccb4e3f42b49ba60da033505, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel - Cast
+    second: {fileID: 2100000, guid: 16b8dfc1a9a962f4d8b58a697c21aaab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Titanium
+    second: {fileID: 2100000, guid: 25f0ee1ba0ff06a46ae3fbc1bdd7484f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turquoise
+    second: {fileID: 2100000, guid: 960432fd35c7741439c9de4632517d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Paint_Matte Light Red-Orange
+    second: {fileID: 2100000, guid: 1889acfaf5d87854593c52302d3a41f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: 7d971a11a782e36419fbec0e0ba3dd43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b17978ca8eef75f42953f8146988ea8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

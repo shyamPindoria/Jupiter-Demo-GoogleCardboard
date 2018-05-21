@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 01ebc3c5aa84b1543a86173eac273c2f
+timeCreated: 1522203990
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: b-card holder
+    100002: b-card_
+    100004: b-card_01
+    100006: b-card_02
+    100008: b-card_03
+    100010: b-card_04
+    100012: b-card_05
+    100014: b-card_06
+    100016: b-card_07
+    100018: b-card_08
+    100020: b-card_09
+    100022: b-card_10
+    100024: b-card_11
+    100026: b-card_12
+    100028: b-card_13
+    100030: b-card_14
+    100032: b-card_15
+    100034: b-card_16
+    100036: b-card_17
+    100038: b-card_18
+    100040: b-card_19
+    100042: b-card_20
+    100044: b-card_21
+    100046: b-card_22
+    100048: b-card_23
+    100050: b-card_24
+    100052: b-card_25
+    100054: b-card_26
+    100056: b-card_27
+    100058: b-card_28
+    100060: b-card_29
+    100062: b-card_30
+    100064: b-card_31
+    100066: b-card_32
+    100068: b-card_33
+    100070: b-card_34
+    100072: back panel
+    100074: //RootNode
+    100076: front panel
+    100078: middle part
+    400000: b-card holder
+    400002: b-card_
+    400004: b-card_01
+    400006: b-card_02
+    400008: b-card_03
+    400010: b-card_04
+    400012: b-card_05
+    400014: b-card_06
+    400016: b-card_07
+    400018: b-card_08
+    400020: b-card_09
+    400022: b-card_10
+    400024: b-card_11
+    400026: b-card_12
+    400028: b-card_13
+    400030: b-card_14
+    400032: b-card_15
+    400034: b-card_16
+    400036: b-card_17
+    400038: b-card_18
+    400040: b-card_19
+    400042: b-card_20
+    400044: b-card_21
+    400046: b-card_22
+    400048: b-card_23
+    400050: b-card_24
+    400052: b-card_25
+    400054: b-card_26
+    400056: b-card_27
+    400058: b-card_28
+    400060: b-card_29
+    400062: b-card_30
+    400064: b-card_31
+    400066: b-card_32
+    400068: b-card_33
+    400070: b-card_34
+    400072: back panel
+    400074: //RootNode
+    400076: front panel
+    400078: middle part
+    2300000: b-card_
+    2300002: b-card_01
+    2300004: b-card_02
+    2300006: b-card_03
+    2300008: b-card_04
+    2300010: b-card_05
+    2300012: b-card_06
+    2300014: b-card_07
+    2300016: b-card_08
+    2300018: b-card_09
+    2300020: b-card_10
+    2300022: b-card_11
+    2300024: b-card_12
+    2300026: b-card_13
+    2300028: b-card_14
+    2300030: b-card_15
+    2300032: b-card_16
+    2300034: b-card_17
+    2300036: b-card_18
+    2300038: b-card_19
+    2300040: b-card_20
+    2300042: b-card_21
+    2300044: b-card_22
+    2300046: b-card_23
+    2300048: b-card_24
+    2300050: b-card_25
+    2300052: b-card_26
+    2300054: b-card_27
+    2300056: b-card_28
+    2300058: b-card_29
+    2300060: b-card_30
+    2300062: b-card_31
+    2300064: b-card_32
+    2300066: b-card_33
+    2300068: b-card_34
+    2300070: back panel
+    2300072: front panel
+    2300074: middle part
+    3300000: b-card_
+    3300002: b-card_01
+    3300004: b-card_02
+    3300006: b-card_03
+    3300008: b-card_04
+    3300010: b-card_05
+    3300012: b-card_06
+    3300014: b-card_07
+    3300016: b-card_08
+    3300018: b-card_09
+    3300020: b-card_10
+    3300022: b-card_11
+    3300024: b-card_12
+    3300026: b-card_13
+    3300028: b-card_14
+    3300030: b-card_15
+    3300032: b-card_16
+    3300034: b-card_17
+    3300036: b-card_18
+    3300038: b-card_19
+    3300040: b-card_20
+    3300042: b-card_21
+    3300044: b-card_22
+    3300046: b-card_23
+    3300048: b-card_24
+    3300050: b-card_25
+    3300052: b-card_26
+    3300054: b-card_27
+    3300056: b-card_28
+    3300058: b-card_29
+    3300060: b-card_30
+    3300062: b-card_31
+    3300064: b-card_32
+    3300066: b-card_33
+    3300068: b-card_34
+    3300070: back panel
+    3300072: front panel
+    3300074: middle part
+    4300000: b-card_
+    4300002: b-card_01
+    4300004: b-card_02
+    4300006: b-card_03
+    4300008: b-card_04
+    4300010: b-card_05
+    4300012: b-card_06
+    4300014: b-card_07
+    4300016: b-card_08
+    4300018: b-card_09
+    4300020: b-card_10
+    4300022: b-card_11
+    4300024: b-card_12
+    4300026: b-card_13
+    4300028: b-card_14
+    4300030: b-card_15
+    4300032: b-card_16
+    4300034: b-card_17
+    4300036: b-card_18
+    4300038: b-card_19
+    4300040: b-card_20
+    4300042: b-card_21
+    4300044: b-card_22
+    4300046: b-card_23
+    4300048: b-card_24
+    4300050: b-card_25
+    4300052: b-card_26
+    4300054: b-card_27
+    4300056: b-card_28
+    4300058: b-card_29
+    4300060: b-card_30
+    4300062: b-card_31
+    4300064: b-card_32
+    4300066: b-card_33
+    4300068: b-card_34
+    4300070: middle part
+    4300072: front panel
+    4300074: back panel
+    6400000: b-card_
+    6400002: b-card_01
+    6400004: b-card_02
+    6400006: b-card_03
+    6400008: b-card_04
+    6400010: b-card_05
+    6400012: b-card_06
+    6400014: b-card_07
+    6400016: b-card_08
+    6400018: b-card_09
+    6400020: b-card_10
+    6400022: b-card_11
+    6400024: b-card_12
+    6400026: b-card_13
+    6400028: b-card_14
+    6400030: b-card_15
+    6400032: b-card_16
+    6400034: b-card_17
+    6400036: b-card_18
+    6400038: b-card_19
+    6400040: b-card_20
+    6400042: b-card_21
+    6400044: b-card_22
+    6400046: b-card_23
+    6400048: b-card_24
+    6400050: b-card_25
+    6400052: b-card_26
+    6400054: b-card_27
+    6400056: b-card_28
+    6400058: b-card_29
+    6400060: b-card_30
+    6400062: b-card_31
+    6400064: b-card_32
+    6400066: b-card_33
+    6400068: b-card_34
+    6400070: back panel
+    6400072: front panel
+    6400074: middle part
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b-card
+    second: {fileID: 2100000, guid: c9bad02bb608e9a4d99883f52ba82c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b-card back
+    second: {fileID: 2100000, guid: 950be5cb0c022fb4a8dfb5338beb8e2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crystal
+    second: {fileID: 2100000, guid: 81c0343779587344e958548251dc4d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: fe74c0a5926fccb46a63c6b0f46731b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: cc7dfe8df7ebdbe48bcb379ac1598321, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
