@@ -67,6 +67,7 @@ public class GVRTeleport : MonoBehaviour {
 
 		if (AlertObserver.teleportMode) {
 			if (Physics.Raycast(ray, out hit)) {
+				
 				//teleLoc = hit.point;
 				//Debug.Log(hit.collider +" : "+ hit.distance+" : "+ hit.point);
 			//	Debug.Log(hit.normal);
@@ -89,21 +90,24 @@ public class GVRTeleport : MonoBehaviour {
 
 				line.material.SetTextureOffset("_MainTex", new Vector2(Time.timeSinceLevelLoad * -4f, 0f));
 				line.material.SetTextureScale("_MainTex", new Vector2(hit.point.magnitude, 1f));
+			
 			}
 		
 
 			if (Input.GetMouseButton(0)) {
 				if (Physics.Raycast(ray, out hit)) {
-					if (!debugNoJump) {
-						if (useViewHeight) { //better way?
-							parent.transform.position = new Vector3(hit.point.x, hit.point.y + viewHeight, hit.point.z);
-						} else {
-							parent.transform.position = new Vector3(hit.point.x, hit.point.y, hit.point.z);
+					if (hit.transform.tag.Equals("Ground")) {
+						if (!debugNoJump) {
+							if (useViewHeight) { //better way?
+								parent.transform.position = new Vector3(hit.point.x, hit.point.y + viewHeight, hit.point.z);
+							} else {
+								parent.transform.position = new Vector3(hit.point.x, hit.point.y, hit.point.z);
+							}
+							AlertObserver.teleported = true;
 						}
-						AlertObserver.teleported = true;
-					}
-					if (!debugLine) {
-						line.SetVertexCount(0);
+						if (!debugLine) {
+							line.SetVertexCount(0);
+						}
 					}
 				}
 				targetIndicator.GetComponent<Light>().intensity = 0;

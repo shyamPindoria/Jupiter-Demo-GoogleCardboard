@@ -18,6 +18,7 @@ TagManager:
   - MaterialAtom1
   - CloseUpScreen
   - VoiceOvers
+  - Ground
   layers:
   - Default
   - TransparentFX
