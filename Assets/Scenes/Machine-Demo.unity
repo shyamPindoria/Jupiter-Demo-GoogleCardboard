@@ -7730,13 +7730,11 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 409751851}
-  m_Text: '- To start demonstration, press
+  m_Text: '- To start demonstration, open
 
-    the Menu Button, point to the
+    the menu using the button and
 
-    start button on the menu and
-
-    press the Trigger Button.'
+    click start.'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -19620,6 +19618,28 @@ Prefab:
       propertyPath: m_Parameters.widthCurve.m_RotationOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 108000011008751952, guid: eecc2e1751a504b46b4f86a43b8478e6,
+        type: 2}
+      propertyPath: m_Range
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 108000011008751952, guid: eecc2e1751a504b46b4f86a43b8478e6,
+        type: 2}
+      propertyPath: m_SpotAngle
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012260875956, guid: eecc2e1751a504b46b4f86a43b8478e6, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012260875956, guid: eecc2e1751a504b46b4f86a43b8478e6, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012260875956, guid: eecc2e1751a504b46b4f86a43b8478e6, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: eecc2e1751a504b46b4f86a43b8478e6, type: 2}
   m_IsPrefabParent: 0
@@ -26345,7 +26365,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1391317210}
-  m_Text: Vive Controllers
+  m_Text: Google Cardboard
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -28634,15 +28654,15 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1489984043}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -25, y: -2.4000015, z: 0.3}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -30.099998, y: -8.799999, z: 0.3}
+  m_LocalScale: {x: 0.8155234, y: 0.8155234, z: 0.8155234}
   m_Children: []
   m_Father: {fileID: 1884407471}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -25, y: -2.4}
+  m_AnchoredPosition: {x: -30.1, y: -8.8}
   m_SizeDelta: {x: 68.22, y: 100.79}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1489984045
@@ -28664,7 +28684,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8dd9e166d29982940895b0dafaa08c8c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2f62bea33896f4078a9f5188f8375368, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -28715,8 +28735,8 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1500773753}
-  m_Text: "- To teleport, press and hold \nthe Track Pad Button, point\nwhere you
-    want to teleport \nand release the button."
+  m_Text: "- To teleport, press the button,\nclick on teleport, point to the \nground
+    and click the button \nagain to teleport."
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -31222,9 +31242,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1643004849}
-  m_Text: '- The Trigger Button can also be
+  m_Text: '- You can close the menu by clicking
 
-    used to pick up items.'
+    away from it.'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
